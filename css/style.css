@@ -1,0 +1,86 @@
+div,body,ul,ol,li,dl,dt,dd,table,tr,td,p,h1,h2,h3,h4{margin:0; padding:0;}
+body{font-family:Verdana, Arial, "宋体"; font-size:14px; color:#808080; background:#fff;padding-left: 275px;width: 1220px;min-width: 1003px;}
+li{list-style:none;}
+a{text-decoration:none;}
+/*顶部*/
+.logo img{width: 270px;height: 60px;float: left;}
+.logo input select{float: left;}
+.logo input{width: 280px;height: 29px;margin-left: 85px;}
+.logo select{height: 29px;}
+.logo span{font-size: 12px;color: #000;margin-left: 10px;}
+.logo strong{margin-left:85px;font-size: 20px;color: #fa0101;}
+.logo li{margin-top: 5px;color: #000;}
+.logo a:link{color: #000;}
+.logo a:hover{color: #361fe4;}
+/*搜索*/
+.sousuo{width: 1003px;padding-top: 10px;}
+.sousuo ul li{width: 140px;height: 50px;border: 1px solid #00ffff;background-color: #256aea;float: left;}
+.sousuo ul li a{color: #fff;font-family: "楷体";font-size: 22px;padding-left: 38px;line-height: 50px;display: block;}
+.sousuo>ul li a:hover{background-color: #00FFFF;}
+.daohang img{width: 994px;margin-top: 10px;}
+/*内容*/
+.neirong .shangbu{width: 994px;}
+.shangbu h2{font-size: 30px;color: #000;font-weight: 900;font-family: "楷体";border-bottom: 1px solid #000;margin-top: 10px;padding-bottom: 10px;}
+.zuobu{width: 286px;margin-top: 10px;float: left;border: 1px solid #fa3b06;}
+.zuobu h3{background-color: #fa3b06;font-size: 24px;color: #000;font-family: "楷体";padding-left: 5px;}
+.zuobu ul{padding-left: 5px;}
+.zuobu ul li span{float: right;padding-right: 5px;color: #f90606;}
+.zuobu ul li a{font-family: "楷体";font-size: 18px;}
+.zuobu ul li a:link{color: #000;}
+.zuobu ul li a:hover{color: #f90606;}
+.youbu{width: 700px;margin-top: 10px;margin-left: 292px;border: 1px solid #fa3b06;height: 870px;}
+.youbu h3{background-color: #FA3B06;font-size: 24px;font-family: "楷体";color: #000;padding-left: 5px;}
+.youbu li{width: 130px;height: 205px;float: left;padding-left: 8px;margin-top: 5px;}
+.youbu ul li a{display: block;font-size: 16px;font-family: "楷体";}
+.youbu ul li a:link{color: #000;}
+.youbu ul li a:hover{color: #f90606;}
+.youbu img{width: 130px;height: 185px;}
+/*广告*/
+.guanggao{width: 994px;margin-top: 10px;}
+.guanggao img{width: 994px;}
+/*底部*/
+.dibu{width: 994px;margin-top: 10px;}
+.dibu h1{font-family: "楷体";color: #000;font-size: 30px;}
+.dibu h1 span{margin-left: 680px;}
+.dibu h1 span a{padding-left: :;px;font-family: "楷体";padding-top: 10px;font-size: 18px;}
+.dibu h1 a:link{color: #000;}
+.dibu h1 a:hover{color: #f90606;}
+.dibu p{color: #000;font-family: "楷体";font-size: 16px;margin-top: 5px;line-height: 23px;}
+.dibu p span{padding-left: 300px;}
+.dibu h2{padding-left: 20px;color: #000;font-family: "楷体";font-size: 16px;margin-top: 5px;}
+
+/*列表页*/
+.liebiao{width: 994px;margin-top: 10px;}
+.weizhi{width: 993px;border: 1px solid #fa3b06;}
+.weizhi li a{font-family: "微软雅黑";font-size: 18px;padding-left: 5px;}
+.weizhi li a:link{color: #000;}
+/*内容*/
+.biankuang{border: 1px solid #FA3B06;width: 993px;margin-top: 5px;}
+.neirong1{padding-top: 10px;border-top: 1px dashed #808080;margin-top: 10px;}
+.neirong1 li img{width: 33px;height: 22px;float: left;padding-top: 5px;padding-left: 20px;}
+.neirong1 li{font-size: 14px;font-family: "微软雅黑";line-height: 25px;}
+.neirong1 li span{color: #f31212;padding-left: 5px;}
+.neirong1 a{font-size: 18px;font-family: "微软雅黑";margin-top: 10px;}
+.liebiao .neirong1 p{font-size: 16px;color: #0f3deb;font-family: "微软雅黑";padding-left: 54px;}
+.neirong1 a:link{color: #e38a20;}
+.neirong1 a:hover{color: #00FFFF}
+/*尾页*/
+.liebiao p{padding-left: 30px;padding-top: 10px;color: #0f3deb;font-family: "微软雅黑";padding-bottom: 5px;}
+.liebiao a:link{color: #e38a20;}
+.liebiao a:hover{color: #00FFFF;}
+/*详情页*/
+.xiangqin{width: 993px;margin-top: 10px;}
+.zhongjian{width: 993px;border: 1px solid #FA3B06;}
+.zhongjian ul li{font-family: "微软雅黑";font-size: 18px;color: #000;}
+.toubu h1{font-size: 24px;font-family: "微软雅黑";color: #000;padding: 10px  0 10px 175px;border: 1px dashed #808080;}
+.toubu h1 strong{color: #e38a20;}
+.shenti .tupian1 img{width: 425px;height: 600px;padding-left: 280px;padding-top: 10px;}
+.shenti p{color: #0f3deb;font-family: "微软雅黑";font-size: 20px;padding-top: 10px;padding-left: 20px;}
+.shenti ul li{color: #0F3DEB;font-family: "微软雅黑";font-size: 20px;padding-left: 135px;}
+.wenben ul li{color: #0F3DEB;font-family: "微软雅黑";font-size: 20px;padding-left: 50px;font-style: normal;line-height: 30px;text-indent: 2em;}
+.tupian img{width: 700px;padding-left: 150px;}
+.shenti h2{font-size: 36px;color: #eb0f24;}
+.shenti h3{width: 750px;height: 20px;font-size: 15px;font-family: "微软雅黑";background-color: #f2b389;margin: 5px 0 5px 110px;padding: 5px 0 5px 20px;}
+.shenti h4{width: 750px;height: 20px;font-size: 15px;font-family: "微软雅黑";background-color: #f2b389;margin: 5px 0 5px 110px;padding: 5px 0 5px 20px;}
+.shenti a:link{color: #eb0f24;}
+.shenti a:hover{color: #0f3deb;}
